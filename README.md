@@ -1,1 +1,2 @@
-# sfr_extragalcatic_comparison
+# Sfr extragalcatic comparison
+Updated plots for the MW CMZ and extragalactic comparison plots. The final plots are "SFRvsGas.pdf" and "SFRvsDenseGas.pdf". I have kept some of the old code in there as separate cells but the comments at the top of each cell will say if a cell is using the updated data table or the old one. The only thing that has changed is when I'm retreiving the data at the very beginning. 
