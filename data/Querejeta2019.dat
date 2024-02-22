@@ -1,0 +1,53 @@
+
+....Edit 10 rows of file 'tablea1.dat' with form=a
+#!form=a
+${Name} ${RAdeg} ${DEdeg} ${SigStar} ${e_SigStar} ${TIR} ${e_TIR} ${F33GHz} ${e_F33GHz} ${tfrac} ${e_tfrac} ${SigSFR} ${e_SigSFR} ${IHCN} ${e_IHCN} ${ICO} ${e_ICO} ${sigHCN} ${e_sigHCN} ${sigCO} ${e_sigCO}
+ (hit Return)
+## (from tabmap V6.0 (2016-08-18)) 2021-08-31T12:21:32
+#---------------------------------------------------------------------------
+#-- J/A+A/625/A19 33 GHz continuum map of M51 (Querejeta+, 2019)
+#--------------------------------------------------------------------------
+#---Table: J/A+A/625/A19/tablea1.dat Measurements for apertures on HCN peaks  (27 records)
+#Equinox=J2000
+#-------------------------------------------------------------------------------
+#     Label Format Unit         Explanations
+#-------------------------------------------------------------------------------
+#      Name A8     ---          Region in M51 (north, ring, south)
+#     RAdeg F8.4   deg          Right ascension (J2000)
+#     DEdeg F8.5   deg          Declination (J2000)
+#   SigStar I4     Msun/pc2     Stellar mass surface density
+# e_SigStar I4     Msun/pc2     Uncertainty stellar mass surface density
+#       TIR F5.1   10+6Lsun     Total Infrared Luminosity (TIR)
+#     e_TIR F4.1   10+6Lsun     Uncertainty TIR
+#    F33GHz F5.1   uJy          33GHz Spectral Flux Density
+#  e_F33GHz F3.1   uJy          Uncertainty 33GHz Flux Density
+#     tfrac F6.1   %            Thermal fraction at 33GHz
+#   e_tfrac F4.1   %            Uncertainty thermal fraction 33GHz
+#    SigSFR F5.2   Msun/Myr/pc2 Star formation rate surface density
+#  e_SigSFR F4.2   Msun/Myr/pc2 Uncertainty SFR surface density
+#      IHCN F5.2   K.km/s       HCN(1-0) intensity
+#    e_IHCN F4.2   K.km/s       Uncertainty HCN(1-0) intensity
+#       ICO F5.1   K.km/s       ?=- CO(1-0) intensity
+#     e_ICO F4.1   K.km/s       ?=- Uncertainty CO(1-0) intensity
+#    sigHCN F4.1   km/s         ?=- HCN(1-0) velocity dispersion
+#  e_sigHCN F3.1   km/s         ?=- Uncertainty HCN(1-0) velocity
+#                                dispersion
+#     sigCO F5.2   km/s         ?=- CO(1-0) velocity dispersion
+#   e_sigCO F4.2   km/s         ?=- Uncertainty CO(1-0) velocity
+#                                dispersion
+#-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------
+                            Sig                     F                     S                              si
+Name        RAdeg    DEdeg Star   e_   TIR   e_ 33GHz  e_  tfrac   e_ igSFR   e_  IHCN   e_   ICO   e_ gHCN  e_ sigCO   e_
+--------------------------------------------------------------------------------------------------------------------------
+M51north 202.4564 47.21080  408  131  99.7 25.8 102.0 5.4   78.5  4.8  0.43 0.04  4.88 0.70 122.3 12.2 12.1 2.0 12.73 0.40
+M51north 202.4691 47.21020  432  134   8.7  2.3  10.6 4.4   23.1 25.3  0.01 0.02  2.92 0.59  66.1  6.6 11.0 2.7 11.08 0.66
+M51north 202.4627 47.21120  416  130  21.8  5.6  17.1 4.5   47.1 15.7  0.04 0.02  2.65 0.57  53.5  5.3 10.1 2.5  7.83 0.43
+M51north 202.4669 47.21200  383  124 139.1 36.0 140.1 6.2   92.3  1.9  0.69 0.04  3.68 0.66  83.6  8.4  7.8 1.5  9.22 0.39
+M51north 202.4676 47.21300  378  122  40.5 10.5  62.4 5.0   85.1  3.9  0.29 0.03  3.69 0.64  46.2  4.6 10.8 2.2  6.83 0.52
+M51ring  202.4642 47.20000 1686  509  56.6 14.6  95.8 5.1   69.8  6.6  0.36 0.04 12.15 1.32 209.5 20.9 16.7 1.0 14.29 0.29
+M51ring  202.4677 47.20020 1744  526  38.3  9.9  54.0 4.6   57.1  9.7  0.17 0.03  7.02 0.85 104.3 10.4 13.1 1.2  8.28 0.28
+M51ring  202.4682 47.20070 1324  401  50.9 13.2  59.0 4.6   61.2  8.8  0.19 0.03  7.35 0.91 118.7 11.9 14.5 1.4  9.86 0.33
+M51ring  202.4713 47.19100 2649  797  13.5  3.5   9.4 4.2   35.0 17.6  0.02 0.01  4.85 0.63  72.8  7.3 16.3 1.9  8.06 0.40
+M51ring  202.4718 47.19150 3129  941  17.3  4.5   4.3 4.2   42.1 17.2  0.01 0.01  5.40 0.69  58.2  5.8 15.1 1.6  7.82 0.45
+--------------------------------------------------------------------------------------------------------------------------

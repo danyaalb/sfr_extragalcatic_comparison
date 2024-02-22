@@ -1,0 +1,7 @@
+#      (lg(S_SFR)) (lg(S_gas)) (lg(S_gas_tdyn))
+# I use 0.20dex 0.17dex error for the logs (typical value; differential estimates are difficult)
+#
+      -0.471       2.392      0.3107
+     -0.3642       2.525      0.4436
+      -1.272       1.753     -0.3291
+

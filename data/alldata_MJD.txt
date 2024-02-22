@@ -1,0 +1,581 @@
+Title: EMPIRE: The IRAM 30-m Dense Gas Survey of Nearby Galaxies 
+Authors: Jimenez-Donaire M.J., Bigiel F., Leroy A.K., Usero A., Cormier D., 
+         Puschnig J., Gallagher M., Kepley A., Bolatto A., Garcia-Burillo S., 
+         Hughes A., Kramer C., Pety J., Schinnerer E., Schruba A., Schuster K.,
+         Walter F. 
+Table: Dense gas literature compilation
+================================================================================
+Byte-by-byte Description of file: apjab2b95t11_mrt.txt
+--------------------------------------------------------------------------------
+   Bytes Format Units        Label    Explanations
+--------------------------------------------------------------------------------
+   1- 16 A16    ---          Ref      Reference identifier (1)
+  18- 25 F8.5   [solLum]     logLIR   log IR luminosity
+  27- 35 F9.6   [K.km/s/pc2] logLHCN  ? log HCN(1-0) luminosity
+      37 A1     ---          Type     Type code (2)
+--------------------------------------------------------------------------------
+Note (1):
+          Bigiel15 = [2015ApJ...815..103B];
+          Braine16 = [2017A&A...597A...44];
+       Brouillet05 = [2005A&A...429..153B];
+      Buchbender13 = [2013A&A...549A..17B];
+            Chen17 = [2017ApJ...836..101C];
+            Chin97 = [1997A&A...317..548C];
+            Chin98 = [1998A&A...303..901C];
+           Crocker = [2012MNRAS.421.1298C];
+       Gallagher18 = [2018ApJ...858....90];
+             Gao04 = [2004ApJ...606..271G];
+             Gao07 = [2007ApJ...660L.271G];
+  Garcia-Burillo12 = [2012A&A...539A...8G];
+   Gracia-Carpio08 = [2008A&A...479..703G];
+          Juneau09 = [2009ApJ...707.1217J];
+          Kepley14 = [2014ApJ...780L..13K];
+           Krips08 = [2008ApJ...677..262K];
+          Privon15 = [2015ApJ...814...39P];
+        Stephens16 = [2016ApJ...824...29S];
+           Usero15 = [2015AJ....150..115U];
+              Wu10 = [2010ApJS..188..313W].
+Note (2): 
+    R = Resolved galaxy;
+    I = Individual cloud or Core.
+--------------------------------------------------------------------------------
+Gao04            10.3222   7.43136  
+Gao04            11.6693   8.92942  
+Gao04            10.5682   7.41497  
+Gao04            11.6684   8.63347  
+Gao04            11.4099   8.27646  
+Gao04            10.4150   7.39794  
+Gao04            10.4150   7.30103  
+Gao04            10.3222   7.56820  
+Gao04            11.4518   8.55751  
+Gao04            11.3997   8.42651  
+Gao04            11.1106   8.49136  
+Gao04            10.1461   7.67210  
+Gao04            11.5866   8.09691  
+Gao04            11.9400   8.99123  
+Gao04            12.0723   8.79239  
+Gao04            11.0000   7.98227  
+Gao04            10.7924   7.60206  
+Gao04            11.6599   8.57978  
+Gao04             9.91908  6.95424  
+Gao04            11.9504   9.00000  
+Gao04            10.6628   7.47712  
+Gao04            10.6335   8.00000  
+Gao04            11.9722   9.00860  
+Gao04            11.5623   8.60206  
+Gao04            10.1303   6.95424  
+Gao04            10.1004   6.90309  
+Gao04            10.0043   7.38021  
+Gao04            10.0607   7.36173  
+Gao04            10.3304   7.73239  
+Gao04            10.2304   7.25527  
+Gao04             9.90849  7.20412  
+Gao04            10.3010   6.90309  
+Gao04             9.41497  6.60206  
+Gao04            10.1461   7.61278  
+Gao04            10.0414   7.00000  
+Gao04            11.1399   8.43616  
+Gao04            10.1461   7.54407  
+Gao04            12.1136   9.18184  
+Gao04            10.4771   7.87506  
+Gao04            10.6232   7.34242  
+Gao04            10.5798   7.75587  
+Gao04            12.3701   9.57519  
+Gao04            11.7300   8.60530  
+Gao04            11.0492   8.13988  
+Gao04            11.0569   8.44871  
+Gao04            10.2041   7.69020  
+Gao04            11.3304   8.51455  
+Gao04            11.1492   8.53403  
+Gao04            10.5441   7.64345  
+Gao04            11.6096   8.34044  
+Gao04            10.8692   8.04922  
+Gao04            12.1523   9.17609  
+Gao04            11.4298   8.52504  
+Gao04            12.4822   9.26951  
+Gao04            12.1467   8.96379  
+Gao04            11.7868   9.04139  
+Gao04            11.5717   8.97772  
+Gao04            11.7980   8.32222  
+Gao04            11.3304   8.81291  
+Gao04            11.3502   8.11394  
+Gao04            10.9294   7.80618  
+Gao04            10.7924   7.95424  
+Gao04            10.6721   7.69020  
+Gao04            10.4150   7.43136  
+Gao04            10.6232   7.69897  
+Gao07            13.2304   9.81291  
+Gao07            11.3979   8.39794  
+Gao07            12.6990   9.47712  
+Gao07            12.5315   9.07918  
+Gao07            11.9685   8.77815  
+Gao07            13.7404  10.5911   
+Gao07            13.3424  10.4472   
+Gao07            13.4472  10.6628   
+Gao07            13.3010   9.96848  
+Gao07            12.7853   9.56820  
+Gao07            12.4314   8.95424  
+Gao07            12.3222   8.77815  
+Garcia-Burillo12 10.8976   7.78588  
+Garcia-Burillo12 11.3096   7.90549  
+Garcia-Burillo12 11.5786   8.47068  
+Garcia-Burillo12 10.9777   8.04395  
+Garcia-Burillo12 11.4829   7.86422  
+Garcia-Burillo12 11.1818   8.25617  
+Garcia-Burillo12 11.1399   8.06214  
+Garcia-Burillo12 11.0531   7.77059  
+Garcia-Burillo12 11.5378   8.26860  
+Garcia-Burillo12 11.2601   8.06540  
+Garcia-Burillo12 11.7889   8.63836  
+Garcia-Burillo12 11.1367   7.76297  
+Garcia-Burillo12 10.9243   7.77473  
+Garcia-Burillo12 10.9031   7.83448  
+Garcia-Burillo12 11.2504   7.82388  
+Garcia-Burillo12 11.5132   8.21055  
+Garcia-Burillo12 10.8976   7.83776  
+Garcia-Burillo12 11.8692   8.27737  
+Garcia-Burillo12 10.9395   7.73613  
+Gracia-Carpio08  12.2672   9.26482  
+Gracia-Carpio08  12.2380   9.06446  
+Gracia-Carpio08  12.1790   9.19866  
+Gracia-Carpio08  12.0682   9.10380  
+Gracia-Carpio08  11.9956   8.86923  
+Gracia-Carpio08  11.9868   8.85733  
+Gracia-Carpio08  11.8865   9.00860  
+Gracia-Carpio08  11.8692   8.81291  
+Gracia-Carpio08  11.6628   8.77815  
+Gracia-Carpio08  11.6128   8.75587  
+Gracia-Carpio08  11.5441   8.43136  
+Gracia-Carpio08  11.5315   8.30103  
+Gracia-Carpio08  11.4150   8.05690  
+Gracia-Carpio08  11.2304   7.87506  
+Gracia-Carpio08  11.3617   8.30103  
+Gracia-Carpio08  11.2304   8.25527  
+Gracia-Carpio08  11.2041   8.47712  
+Privon15         11.4900   8.02050  
+Privon15         11.7100   8.36256  
+Privon15         11.6500   8.60950  
+Privon15         11.4300   8.09713  
+Privon15         11.5100   8.25576  
+Privon15         11.0400   7.78116  
+Privon15         12.1600   8.72665  
+Privon15         11.3000   8.36743  
+Privon15         11.6500   8.77581  
+Privon15         12.3900   9.06784  
+Privon15         11.6000   8.58754  
+Privon15         12.0100   9.15205  
+Privon15         11.4300   8.49345  
+Privon15         11.5600   8.45662  
+Privon15         11.2700   8.32573  
+Privon15         11.1500   8.12923  
+Privon15         11.1500   8.25484  
+Privon15         11.6600   8.52639  
+Privon15         11.3900   8.46028  
+Privon15         11.3500   8.45731  
+Privon15         11.1400   8.05588  
+Privon15         12.2800   9.29220  
+Privon15         11.6200   8.26646  
+Privon15         11.4500   8.27464  
+Privon15         11.6300   8.42056  
+Privon15         11.4900   8.08729  
+Privon15         11.1100   8.27723  
+Privon15         11.2000   8.26466  
+Privon15         11.6500   8.39993  
+Privon15         11.1200   8.35250  
+Privon15         11.1100   8.07916  
+Privon15         11.8100   8.52502  
+Privon15         11.3400   8.32671  
+Privon15         11.3500   8.39481  
+Privon15         11.3800   8.38127  
+Privon15         11.1200   8.15738  
+Privon15         12.2000   9.14390  
+Juneau09         11.4800   8.95000  
+Juneau09         10.9300   7.97000  
+Juneau09         11.4800   8.29000  
+Juneau09         11.0400   8.55000  
+Juneau09         11.2700   8.45000  
+Juneau09         11.4000   8.15000  
+Juneau09         11.8400   8.84000  
+Juneau09         10.9300   8.12000  
+Juneau09         11.5600   8.69000  
+Juneau09         11.8400   8.98000  
+Juneau09         10.6500   8.16000  
+Juneau09         10.2400   7.77000  
+Juneau09         10.0000   7.46000  
+Juneau09         10.4000   7.76000  
+Juneau09         11.5500   8.49000  
+Juneau09         10.2000   7.54000  
+Juneau09         11.9800   8.87000  
+Juneau09         12.0800   9.23000  
+Juneau09         11.6900   8.89000  
+Juneau09         12.2500   9.27000  
+Juneau09         10.9400   8.20000  
+Juneau09         11.2200   8.59000  
+Juneau09         11.0500   8.61000  
+Juneau09         11.3900   8.43000  
+Juneau09         11.9700   8.78000  
+Juneau09         11.2300   8.63000  
+Juneau09         11.2800   8.41000  
+Juneau09         12.2600   9.09000  
+Juneau09         12.1900   9.22000  
+Juneau09         11.8300   8.84000  
+Juneau09         11.4800   8.21000  
+Juneau09         11.2900   8.02000  
+Krips08          10.8136   8.15425  
+Krips08           9.49601  6.95629  
+Krips08           9.14275  6.44200  
+Krips08           9.22923  6.51264  
+Krips08           9.58508  7.21742  
+Krips08           9.45516  6.79601  
+Krips08          10.6883   7.38231  
+Krips08          10.1939   6.84500  
+Krips08          11.9754   9.05306  
+Crocker           9.49511  6.49891  
+Crocker           9.61691  6.48467  
+Crocker          10.3202   6.88687  
+Crocker          10.2470   7.68881  
+Crocker          10.0134   6.92822  
+Crocker           9.20352  6.37787  
+Crocker           9.15477  6.84170  
+Crocker           9.68812  7.01553  
+Crocker           8.59113  5.92010  
+Crocker           8.95647  6.47018  
+Crocker           9.52822  6.95840  
+Crocker           8.78636  6.02167  
+Crocker           9.47715  6.86986  
+Crocker           9.39974  6.55633  
+Crocker           9.37981  6.69447  
+Crocker           9.76474  6.33335  
+Crocker           9.44010  6.55734  
+Crocker           8.75700  6.48971  
+Kepley14          8.82629  5.65895  R 
+Kepley14          8.90014  5.49530  R 
+Kepley14          8.85471  5.41713  R 
+Kepley14          8.88861  5.56017  R 
+Kepley14          9.21171  5.88197  R 
+Kepley14          9.50327  5.99585  R 
+Kepley14          9.61786  6.08787  R 
+Kepley14          9.51014  6.05534  R 
+Kepley14          9.27278  5.89443  R 
+Kepley14          8.86814  5.69830  R 
+Kepley14          9.31066  5.90333  R 
+Kepley14          9.71053  6.16021  R 
+Kepley14          9.89988  6.13982  R 
+Kepley14          9.90145  6.11470  R 
+Kepley14          9.64332  6.05506  R 
+Kepley14          9.25115  5.78322  R 
+Kepley14          9.43331  5.92579  R 
+Kepley14          9.64444  6.00109  R 
+Kepley14          9.56263  5.84892  R 
+Kepley14          9.40587  5.42335  R 
+Kepley14          9.11606  5.44302  R 
+Kepley14          9.05079  5.64838  R 
+Kepley14          8.95886  5.43176  R 
+Kepley14          8.43701  5.40973  R 
+Usero15           8.32510  5.51232  R 
+Usero15          10.3459   7.22199  R 
+Usero15           9.71281  6.70166  R 
+Usero15           8.99879  6.09551  R 
+Usero15           8.89480  5.92755  R 
+Usero15           8.19699  4.58778  R 
+Usero15           8.53230  5.41046  R 
+Usero15           8.83738  5.71102  R 
+Usero15           9.23087  5.88397  R 
+Usero15           9.46968  6.63670  R 
+Usero15           9.38587  6.18668  R 
+Usero15           9.40428  6.29597  R 
+Usero15           8.95992  5.59840  R 
+Usero15           8.89354  5.85957  R 
+Usero15           9.38377  6.63705  R 
+Usero15           9.61102  6.45504  R 
+Usero15           8.81287  5.73311  R 
+Usero15           9.16894  6.26960  R 
+Usero15           9.03328  5.95183  R 
+Usero15           9.54169  6.51878  R 
+Usero15           9.77147  7.09197  R 
+Usero15           9.10946  6.23762  R 
+Usero15          10.0795   6.80647  R 
+Usero15           9.47451  6.70586  R 
+Usero15           9.26026  6.81979  R 
+Usero15           8.99493  5.71340  R 
+Usero15           9.22270  6.45479  R 
+Usero15           8.67186  5.63744  R 
+Usero15           8.64999  5.45793  R 
+Usero15           9.05213  6.50226  R 
+Usero15           8.86350  5.91908  R 
+Usero15           9.31760  6.81161  R 
+Usero15           8.57080  5.76772  R 
+Usero15          10.2456   7.05883  R 
+Usero15           9.66007  6.86548  R 
+Usero15           8.87165  5.55653  R 
+Usero15           8.86932  5.64875  R 
+Usero15           8.76719  5.12102  R 
+Usero15           9.68872  6.70343  R 
+Usero15           9.64463  6.60750  R 
+Bigiel15          9.38021  6.90309  R 
+Bigiel15          8.97313  5.90309  R 
+Bigiel15          9.71600  6.43136  R 
+Bigiel15          9.20412  6.39794  R 
+Bigiel15          9.36173  6.34242  R 
+Bigiel15          9.89763  7.38021  R 
+Bigiel15          9.59106  6.25527  R 
+Bigiel15         10.4472   7.32222  R 
+Bigiel15         10.8921   7.67210  R 
+Gallagher18       8.05422  5.53771  R 
+Gallagher18       8.30143  5.44065  R 
+Gallagher18       8.25078  5.43684  R 
+Gallagher18       8.32758  5.99164  R 
+Chen17            7.26000  4.52114  I 
+Chen17            7.30000  4.46687  I 
+Chen17            7.05000  3.94448  I 
+Chen17            6.99000  3.67210  I 
+Chen17            7.71000  4.47712  I 
+Chen17            7.25000  3.97313  I 
+Buchbender13      6.64345  3.08202  I 
+Buchbender13      6.77085  3.38305  I 
+Buchbender13      6.14613  2.91639  I 
+Buchbender13      6.43136  2.95354  I 
+Buchbender13      6.11394  2.99428  I 
+Buchbender13      6.23045  2.91639  I 
+Buchbender13      5.47712  2.58318  I 
+Braine16          7.49100  2.45940  I 
+Braine16          7.75260  3.13600  I 
+Braine16          8.28100  3.19520  I 
+Braine16          8.36270  3.67000  I 
+Braine16          8.71460  3.75220  I 
+Braine16          8.79870  3.92760  I 
+Braine16          9.13900  4.11620  I 
+Brouillet05       6.13935  3.42606  I 
+Brouillet05       5.89809  3.40487  I 
+Brouillet05       6.05738           I 
+Brouillet05       6.33488  3.35911  I 
+Brouillet05       6.38294  3.44626  I 
+Brouillet05       5.74970  3.21778  I 
+Brouillet05       5.96717           I 
+Brouillet05       6.00427  3.18302  I 
+Brouillet05       6.36899  3.59520  I 
+Brouillet05       6.25337  3.58096  I 
+Brouillet05       6.21263  3.48405  I 
+Brouillet05       5.42383           I 
+Brouillet05       5.60684           I 
+Brouillet05       6.41834           I 
+Brouillet05       5.85653           I 
+Brouillet05       6.06618           I 
+Chin97            6.02820  2.76696  I 
+Chin97            5.93600  2.51311  I 
+Chin97            6.14101  2.71403  I 
+Chin97            5.52717  2.29865  I 
+Chin98            5.12392  1.56324  I 
+Wu10              2.85000  0.530000 I 
+Wu10              3.76000  1.36000  I 
+Wu10              5.09000  1.96000  I 
+Wu10              4.03000  1.49000  I 
+Wu10              3.72000  1.36000  I 
+Wu10              4.14000  1.49000  I 
+Wu10              4.56000  1.41000  I 
+Wu10              4.82000  2.22000  I 
+Wu10              5.45000  1.72000  I 
+Wu10              4.26000  1.38000  I 
+Wu10              5.75000  2.34000  I 
+Wu10              6.05000  2.78000  I 
+Wu10              4.27000  1.46000  I 
+Wu10              5.98000  3.03000  I 
+Wu10              5.29000  2.89000  I 
+Wu10              5.36000  2.23000  I 
+Wu10              6.24000  2.88000  I 
+Wu10              5.48000  2.17000  I 
+Wu10              4.68000  1.40000  I 
+Wu10              6.69000  3.44000  I 
+Wu10              6.06000  3.12000  I 
+Wu10              6.60000  3.40000  I 
+Wu10              4.10000  1.53000  I 
+Wu10              4.53000  1.74000  I 
+Wu10              5.03000  1.69000  I 
+Wu10              6.32000  2.68000  I 
+Wu10              5.16000  2.26000  I 
+Wu10              5.71000  2.42000  I 
+Wu10              5.71000  2.26000  I 
+Wu10              5.29000  2.11000  I 
+Wu10              5.70000  0.290000 I 
+Wu10              4.70000  2.39000  I 
+Wu10              4.92000  0.930000 I 
+Wu10              5.29000  2.40000  I 
+Wu10              4.35000  1.56000  I 
+Wu10              4.47000  1.86000  I 
+Wu10              2.47000  0.380000 I 
+Wu10              3.16000  0.480000 I 
+Wu10              4.78000  1.74000  I 
+Wu10              3.47000  0.650000 I 
+Wu10              4.78000  2.02000  I 
+Wu10              3.96000  1.23000  I 
+Wu10              2.43000  0.410000 I 
+Wu10              3.56000  0.990000 I 
+Wu10              2.97000  0.630000 I 
+Wu10              1.95000  0.110000 I 
+Wu10              4.73000  2.01000  I 
+Stephens16        3.99491  1.67491  I 
+Stephens16        5.31533  2.29533  I 
+Stephens16        5.45986  2.60986  I 
+Stephens16        3.84698  1.50698  I 
+Stephens16        3.54897  1.95897  I 
+Stephens16        5.51691  2.07691  I 
+Stephens16        4.69062  2.25062  I 
+Stephens16        4.66256  1.80256  I 
+Stephens16        4.32835  1.50835  I 
+Stephens16        4.79835  1.88835  I 
+Stephens16        4.18028  1.50028  I 
+Stephens16        4.40602  1.78602  I 
+Stephens16        4.43983  1.94983  I 
+Stephens16        5.24591  2.20592  I 
+Stephens16        4.27609  1.86609  I 
+Stephens16        3.10499  0.434992 I 
+Stephens16        3.86327  1.74327  I 
+Stephens16        5.38039  2.46039  I 
+Stephens16        5.49216  2.49216  I 
+Stephens16        5.30921  2.30921  I 
+Stephens16        4.98271  1.93271  I 
+Stephens16        4.53722  2.47722  I 
+Stephens16        5.28494  2.00494  I 
+Stephens16        5.14034  2.19033  I 
+Stephens16        3.94201  1.75201  I 
+Stephens16        4.68239  1.77240  I 
+Stephens16        4.88453  2.20453  I 
+Stephens16        4.30995  2.33995  I 
+Stephens16        4.23479  2.37479  I 
+Stephens16        5.42279  2.01279  I 
+Stephens16        5.21598  1.78597  I 
+Stephens16        4.90756  2.12756  I 
+Stephens16        5.11967  2.10966  I 
+Stephens16        3.82230  2.00230  I 
+Stephens16        5.40644  2.39644  I 
+Stephens16        5.45913  2.67913  I 
+Stephens16        5.19870  2.23870  I 
+Stephens16        3.17009  1.47009  I 
+Stephens16        5.24175  2.03175  I 
+Stephens16        3.72316  1.46316  I 
+Stephens16        5.55228  2.33228  I 
+Stephens16        4.73159  1.53159  I 
+Stephens16        4.57875  2.01875  I 
+Stephens16        5.20492  1.97492  I 
+Stephens16        5.48485  2.12485  I 
+Stephens16        3.80749  1.36749  I 
+Stephens16        4.30134  1.54134  I 
+Stephens16        4.51669  1.62669  I 
+Stephens16        5.77334  2.19334  I 
+Stephens16        5.25213  2.13213  I 
+Stephens16        4.61742  1.94742  I 
+Stephens16        5.75228  2.63228  I 
+Stephens16        6.08836  2.52836  I 
+Stephens16        5.44545  2.21545  I 
+Stephens16        4.43694  1.80694  I 
+Stephens16        5.22606  2.50606  I 
+Stephens16        4.97989  1.90989  I 
+Stephens16        5.68823  2.72823  I 
+Stephens16        3.26957  1.61957  I 
+Stephens16        4.91193  1.81193  I 
+Stephens16        5.85138  2.47138  I 
+Stephens16        4.96644  1.98644  I 
+Stephens16        5.77644  2.49644  I 
+Stephens16        3.18768  1.35768  I 
+Stephens16        3.82290  1.22290  I 
+Stephens16        4.67921  1.90921  I 
+Stephens16        5.06776  2.47775  I 
+Stephens16        4.58122  2.47122  I 
+Stephens16        4.33698  1.52698  I 
+Stephens16        4.67933  1.68933  I 
+Stephens16        5.38539  2.96539  I 
+Stephens16        3.98506  1.67506  I 
+Stephens16        2.96627  1.70627  I 
+Stephens16        5.37496  2.46496  I 
+Stephens16        6.52457  2.93457  I 
+Stephens16        6.40616  3.51616  I 
+Stephens16        4.17491  1.66491  I 
+Stephens16        4.80074  2.44074  I 
+Stephens16        4.80567  2.43567  I 
+Stephens16        4.32983  2.08983  I 
+Stephens16        4.17102  1.75102  I 
+Stephens16        4.66707  1.96707  I 
+Stephens16        6.16828  2.58828  I 
+Stephens16        3.73099  1.51099  I 
+Stephens16        5.38288  1.67289  I 
+Stephens16        5.42629  2.24629  I 
+Stephens16        5.07742  2.50742  I 
+Stephens16        4.17815  1.47815  I 
+Stephens16        5.13039  1.66039  I 
+Stephens16        6.02783  2.72783  I 
+Stephens16        5.49127  2.44127  I 
+Stephens16        4.62327  1.90327  I 
+Stephens16        5.17902  2.66902  I 
+Stephens16        4.63534  1.71534  I 
+Stephens16        4.51890  2.42890  I 
+Stephens16        4.15527  1.84527  I 
+Stephens16        4.33346  1.89345  I 
+Stephens16        4.55431  1.85431  I 
+Stephens16        3.60027  1.18027  I 
+Stephens16        5.15002  1.87002  I 
+Stephens16        5.51190  2.31190  I 
+Stephens16        4.11609  2.06609  I 
+Stephens16        5.39597  1.97597  I 
+Stephens16        5.85470  3.06470  I 
+Stephens16        4.78027  2.03027  I 
+Stephens16        4.56221  2.36221  I 
+Stephens16        4.58066  1.77066  I 
+Stephens16        3.78805  1.60805  I 
+Stephens16        4.54814  2.04813  I 
+Stephens16        4.84686  1.76686  I 
+Stephens16        4.45489  1.50489  I 
+Stephens16        5.91309  2.25309  I 
+Stephens16        5.75349  2.73349  I 
+Stephens16        5.31170  2.46170  I 
+Stephens16        4.94594  2.35594  I 
+Stephens16        5.16546  2.45546  I 
+Stephens16        5.68909  3.02909  I 
+Stephens16        5.74650  2.66650  I 
+Stephens16        5.72156  2.78156  I 
+Stephens16        5.59641  2.57641  I 
+Stephens16        5.59926  2.73926  I 
+Stephens16        4.18694  1.54694  I 
+Stephens16        6.34765  2.89765  I 
+Stephens16        6.22243  2.87243  I 
+Stephens16        5.22305  2.26305  I 
+Stephens16        3.40649  1.02649  I 
+Stephens16        4.84064  2.63064  I 
+Stephens16        6.11789  2.94789  I 
+Stephens16        5.19303  2.21303  I 
+Stephens16        5.57597  2.83597  I 
+Stephens16        5.10906  2.51905  I 
+Stephens16        4.54400  1.81400  I 
+Stephens16        4.63344  1.77344  I 
+Stephens16        4.13109  1.32109  I 
+Stephens16        4.81868  2.12868  I 
+Stephens16        5.61521  2.68521  I 
+Stephens16        5.23764  2.82764  I 
+Stephens16        5.58672  2.56673  I 
+Stephens16        3.87276  1.72276  I 
+Stephens16        4.72657  2.02657  I 
+Stephens16        4.25814  1.76814  I 
+Stephens16        5.29189  2.44189  I 
+Stephens16        4.90303  2.21303  I 
+Stephens16        4.59175  2.48175  I 
+Stephens16        4.86710  1.60710  I 
+Stephens16        3.67268  1.09268  I 
+Stephens16        3.92050  1.35050  I 
+Stephens16        5.42141  2.03141  I 
+Stephens16        1.99042 -1.10958  I 
+Stephens16        4.46143  2.28143  I 
+Stephens16        5.65714  2.35714  I 
+Stephens16        4.95710  1.41710  I 
+Stephens16        4.98831  1.59831  I 
+Stephens16        4.78388  2.67388  I 
+Stephens16        6.62067  3.52067  I 
+Stephens16        5.86607  3.13607  I 
+Stephens16        3.16180  0.831799 I 
+Stephens16        5.79345  2.70345  I 
+Stephens16        2.98543  0.725433 I 
+Stephens16        5.67592  2.51592  I 
+Stephens16        5.16281  2.31281  I 
+Stephens16        5.07829  2.33829  I 
+Stephens16        4.88771  1.91771  I 
+Stephens16        4.37267  1.92267  I 
+Stephens16        4.12485  1.74485  I 
+Stephens16        5.88315  2.56315  I 
